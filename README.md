@@ -8,7 +8,7 @@
 
 ## 🔗 **Project Links**
 
-- 🌐 **Live Demo:** [https://strike4-funskool-grid-avadhesh-game.netlify.app/](https://strike4-funskool-grid-avadhesh-game.netlify.app/)
+- 🌐 **Live Demo:** [ https://strike-4.netlify.app/]
 
 
 ---
